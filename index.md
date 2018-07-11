@@ -66,7 +66,7 @@ p {
  <body>
  	<div id="wrap">
 		<div class="slide_wrap">
-			<img src="/img/main.png" class="img100"/>
+			<img src="https://user-images.githubusercontent.com/41117380/42576449-5d5eacc0-855d-11e8-8226-ef43063fdea1.png" class="img100"/>
 		</div>
 		<div class="content_wrap">
 		<h3>우리 아가의 돌잔치에 초대합니다</h3><br>
@@ -79,8 +79,8 @@ p {
 		//echo "<div class="map_wrap">지도(location)</div>";
 ?>
 		<div class="contact_wrap">
-			<a href="location.php" class="bg3"><img src="/img/location.png"/></a>&nbsp&nbsp&nbsp&nbsp
-			<a href="gallery.php" class="bg4"><img src="/img/gallery.png"/></a>&nbsp&nbsp&nbsp&nbsp
+			<a href="location.php" class="bg3"><img src="https://user-images.githubusercontent.com/41117380/42576448-5d324036-855d-11e8-9d76-76840af5edf8.png"/></a>&nbsp&nbsp&nbsp&nbsp
+			<a href="gallery.php" class="bg4"><img src="https://user-images.githubusercontent.com/41117380/42576447-5d025e8e-855d-11e8-9013-22089c94c775.png"/></a>&nbsp&nbsp&nbsp&nbsp
 			<a id="kakao-link-btn" href="javascript:;">
 				<img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
 			</a>
@@ -125,8 +125,8 @@ p {
 
 
 		<div class="contact_wrap">
-			<a href="tel:010-1234-5678" class="bg1"><img src="/img/fcall.png"/></a>&nbsp&nbsp&nbsp&nbsp
-			<a href="tel:010-1234-5678" class="bg2"><img src="/img/mcall.png"/></a>
+			<a href="tel:010-1234-5678" class="bg1"><img src="https://user-images.githubusercontent.com/41117380/42576446-5ccef364-855d-11e8-8e56-d0f46be31c34.png"/></a>&nbsp&nbsp&nbsp&nbsp
+			<a href="tel:010-1234-5678" class="bg2"><img src="https://user-images.githubusercontent.com/41117380/42576450-5d930056-855d-11e8-9b11-2e44f25c4e3c.png"/></a>
 		</div>
 		
 	</div>
